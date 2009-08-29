@@ -4,6 +4,8 @@ Fun! Fun!
 This is a fun project that I did quite some time back. It's an adaptation of Oliver Steele's Functional Javascript
 in Erlang. It gives us a nice DSL in Erlang that enables you to write lambdas in String form.
 
+The following blog post summarizes the project .. http://debasishg.blogspot.com/2007/11/erlang-string-lambdas.html
+
 Typically in Erlang you write ..
 
 (fun(X) -> X * 2 end)(6)
